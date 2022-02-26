@@ -1,0 +1,19 @@
+<resources>
+    <string name="MAPS_API_KEY">AIzaSyC39PZ3VHGn7lfpD3_UwCXmjMEQ3MFz3MM</string>
+    <string name="app_name">Practical_Ajay_Makwana</string>
+    <string name="title_activity_maps">Choose Location</string>
+    <string name="title_activity_main">Users List</string>
+    <string name="str_selected_location">Selected Location</string>
+    <string name="str_add_new_location">Add New Location</string>
+    <string name="str_profile_image">Profile Image</string>
+    <string name="str_address">Address</string>
+    <string name="str_mobile_number">Mobile Number</string>
+    <string name="str_last_name">Last Name</string>
+    <string name="str_first_name">First Name</string>
+    <string name="str_save">Save</string>
+    <string name="str_add_other_details">Add Other Details</string>
+    <string name="dialogTitle">Success!</string>
+    <string name="dialogMessage">User added successfully.</string>
+    <string name="dialogMessageUpdate">User updated successfully.</string>
+    <string name="str_location">Location</string>
+</resources>
